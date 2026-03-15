@@ -1,7 +1,10 @@
 # Devoir-JS-
+#Site Du devoir 
+[file:///C:/Users/User/Desktop/public/index.html](https://devoir-js.vercel.app/)
 Site CV
 # Site copier sur Figma 
 https://www.figma.com/design/hR29JYuPQJf13VAYiobPdc/Gestion-page-formulaire
 https://foil-earth-85088537.figma.site/
-#Site Du devoir 
-file:///C:/Users/User/Desktop/public/index.html
+#Les auteurs du projet 
+David Elvis ONOUKA 221614
+Diasse KANE 221939

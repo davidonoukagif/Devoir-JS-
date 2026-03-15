@@ -1,6 +1,6 @@
 # Devoir-JS-
 #Site Du devoir 
-[file:///C:/Users/User/Desktop/public/index.html](https://devoir-js.vercel.app/)
+https://devoir-js.vercel.app/
 #Lien de youtube 
 https://youtu.be/3h5QWcUmj10
 Site CV
